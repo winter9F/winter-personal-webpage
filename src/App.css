@@ -1,0 +1,57 @@
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+
+.now1 {
+  background-color: aquamarine;
+}
+
+.now2 {
+  background-color: blue;
+}
+
+
+img {
+  width: 250px;
+}
+
+.card {
+  background-color: black;
+}
+
+.logoHtml {
+  width: 9%;
+  margin-right: 5px;
+}
+
+.logoCss {
+  width: 6%;
+  margin-right: 12px;
+}
+
+.logoJs {
+  width: 6%;
+  margin-right: 10px;
+}
+
+.logoTs {
+  width: 6%;
+  margin-right: 5px;
+}
+
+.logoReact {
+  width: 80px;
+  height: 80px;
+}
+
+.logoNode {
+  width: 120px;
+  height: 65px;
+}
+
+.logoMongo {
+  width: 70%;
+}
