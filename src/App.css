@@ -5,12 +5,28 @@
   transition: filter 300ms;
 }
 
-.now1 {
+.cont1 {
   background-color: aquamarine;
 }
 
-.now2 {
+.cont2 {
   background-color: blue;
+}
+
+.cont3 {
+  background-color: rgb(255, 0, 179);
+}
+
+.cont4 {
+  background-color: rgb(0, 255, 76);
+}
+
+.proj {
+  padding: 10px;
+}
+
+.btn {
+  margin: 5px;
 }
 
 
@@ -54,4 +70,5 @@ img {
 
 .logoMongo {
   width: 70%;
+
 }
