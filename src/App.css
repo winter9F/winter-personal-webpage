@@ -1,11 +1,20 @@
 .body {
   background-color: rgb(31, 31, 31);
   padding: 40px;
+  font-family: 'Noto Sans JP', sans-serif;
+}
 
+h1 {
+  font-family: 'Kalnia', serif;
+}
+
+p {
+  font-size: 15px;
 }
 
 .skills {
   color: white;
+  font-size: 15px;
 }
 
 
@@ -27,16 +36,16 @@ img {
   width: 250px;
 }
 
-.cont {
-  background-color: black;
-}
-
 .cont1 {
   border-radius: 5px 0px 0px 0px;
 }
 
 .cont2 {
   padding: 10px;
+}
+
+ul {
+  list-style: none;
 }
 
 .logoHtml {
@@ -54,11 +63,6 @@ img {
   margin-right: 10px;
 }
 
-.logoTs {
-  width: 6%;
-  margin-right: 5px;
-}
-
 .logoReact {
   display: inline-block;
   width: 30%;
@@ -67,10 +71,14 @@ img {
 
 .logoNode {
   width: 30%;
-
 }
 
 .logoMongo {
   width: 60%;
+
+}
+
+.logoLinkedIn {
+  width: 50px;
 
 }
