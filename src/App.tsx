@@ -101,14 +101,14 @@ function App() {
               <div className='proj col-12 col-md border border-secondary'>
                 <a href="https://github.com/winter9F/winter-social-network-app"><button className='btn btn-light'>Code on Github</button></a>
                 <div className='ratio ratio-16x9 '>
-                  <iframe src="https://www.youtube.com/embed/BrG12PTRiEY?si=KFFMDHFjBQwk1pcf" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen ></iframe>
+                  <iframe src="https://www.youtube.com/embed/BrG12PTRiEY?si=KFFMDHFjBQwk1pcf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allow="fullscreen"></iframe>
                 </div>
               </div>
 
               <div className='proj col border border-secondary '>
                 <a href="https://github.com/winter9F/winter-notes-app"><button className='btn btn-light'>Code on Github</button></a>
                 <div className='ratio ratio-16x9 '>
-                  <iframe src="https://www.youtube.com/embed/DRFvH5xaoLw?si=XFq-MAoWcHPxew5Z" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen ></iframe>
+                  <iframe src="https://www.youtube.com/embed/DRFvH5xaoLw?si=XFq-MAoWcHPxew5Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allow="fullscreen" ></iframe>
                 </div>
               </div>
             </section>
