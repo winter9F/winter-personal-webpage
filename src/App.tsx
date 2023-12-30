@@ -108,7 +108,7 @@ function App() {
               <div className='proj col border border-secondary '>
                 <a href="https://github.com/winter9F/winter-slide-puzzle"><button className='btn btn-light'>Code on Github</button></a>
                 <div className='ratio ratio-16x9 '>
-                  <iframe width="560" height="315" src="https://www.youtube.com/embed/a3-CeaoB62E?si=mpK7Gp1E5HnPEjbh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+                  <iframe src="https://www.youtube.com/embed/a3-CeaoB62E?si=mpK7Gp1E5HnPEjbh" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
                 </div>
               </div>
             </section>
