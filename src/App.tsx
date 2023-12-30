@@ -97,7 +97,7 @@ function App() {
               </div>
             </section>
 
-            <section className="proj mb-5 row align-items-center">
+            <section className="proj row align-items-center">
               <div className='proj col-12 col-md border border-secondary'>
                 <a href="https://github.com/winter9F/winter-social-network-app"><button className='btn btn-light'>Code on Github</button></a>
                 <div className='ratio ratio-16x9 '>
@@ -106,6 +106,16 @@ function App() {
               </div>
 
               <div className='proj col border border-secondary '>
+                <a href="https://github.com/winter9F/winter-slide-puzzle"><button className='btn btn-light'>Code on Github</button></a>
+                <div className='ratio ratio-16x9 '>
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/a3-CeaoB62E?si=mpK7Gp1E5HnPEjbh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+                </div>
+              </div>
+            </section>
+
+            <section className='proj mb-3 row align-items-center'>
+
+              <div className='proj col-md-6 border border-secondary '>
                 <a href="https://github.com/winter9F/winter-notes-app"><button className='btn btn-light'>Code on Github</button></a>
                 <div className='ratio ratio-16x9 '>
                   <iframe src="https://www.youtube.com/embed/DRFvH5xaoLw?si=XFq-MAoWcHPxew5Z" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen ></iframe>
