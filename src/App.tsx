@@ -24,7 +24,7 @@ function App() {
                 </div>
               </div>
               <div>
-                <p>Aspiring Software Engineer with a working knowledge of both backend and frontend development. Currently seeking opportunities, including internships, to apply my skills and learn from experienced professionals. I am passionate about fostering innovation in an inclusive working environment, and eager to make positive contributions to projects while growing within a collaborative team!</p>
+                <p>Hard-working and motivated individual with knowledge in both backend and frontend development, seeking opportunities in the tech industry where I can learn and grow from within the company. Familiar with languages such as HTML, CSS, and JavaScript, and working with databases. Passionate about fostering innovation in an inclusive and welcoming environment, and eager to make positive contributions to projects while thriving within a collaborative team!</p>
               </div>
               <div>
                 <img src="https://res.cloudinary.com/dqggp5pir/image/upload/v1702150439/Language%20Icons/HTML5_logo_i7agog.png" className="logoHtml" alt="" />
